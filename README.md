@@ -1,7 +1,10 @@
 # CRUD-NESTJS_API
 
-#go to the directory of project
-step 1st => npm start 
+#Go to the directory of project
+step 1st => run command => npm install 
+
+#Start Application
+#Run this command to start this application =>  npm run start 
 
 #description => TO CREATE A NEW USER
 #Method => POST 
